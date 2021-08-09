@@ -1,0 +1,14 @@
+{
+  "$merge": {
+    "source": {
+      "$import": "../defaults.json"
+    },
+    "with": {
+      "name": "Fitbit",
+      "summary": "Tout l'accompagnement dont vous avez besoin, directement au poignet",
+      "path": "/fitbit",
+      "version": "7.2-rev1",
+      "backendBasepath": "http://fitbit.demo:2002/"
+    }
+  }
+}
