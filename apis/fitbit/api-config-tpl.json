@@ -7,7 +7,7 @@
       "name": "Fitbit",
       "summary": "Tout l'accompagnement dont vous avez besoin, directement au poignet",
       "path": "/fitbit",
-      "version": "7.2-rev1",
+      "version": "7.2-rev2",
       "backendBasepath": "http://fitbit.demo:2002/"
     }
   }
