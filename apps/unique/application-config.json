@@ -13,15 +13,5 @@
       ],
       "apiKey": "f51727c0-6e36-48a9-875f-7e2a9da98442"
     }
-  ],
-  "apis": [
-    {
-      "apiName": "Apple Health Kit",
-      "apiVersion": "2.2"
-    },
-    {
-      "apiName": "Fitbit",
-      "apiVersion": "7.2-rev1"
-    }
   ]
 }

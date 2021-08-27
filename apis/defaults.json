@@ -39,6 +39,14 @@
   },
   "clientOrganizations": [
     "API Development"
+  ],
+  "applications": [
+    {
+      "name": "Unique",
+      "enabled": true,
+      "state": "approved",
+      "oauthResources": []
+    }
   ]
 }
 
