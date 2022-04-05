@@ -7,7 +7,7 @@
       "name": "Apple Health Kit",
       "summary": "Health Kit",
       "path": "/apple-health",
-      "version": "2.2-1",
+      "version": "2.2-2",
       "backendBasepath": "http://apple-health.demo:2001/"
     }
   }
